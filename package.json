@@ -1,6 +1,6 @@
 {
   "name": "jsonx-loader",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "barretem",
   "description": "jsonx loader module for webpack",
   "license": "MIT",
