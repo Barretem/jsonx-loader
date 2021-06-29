@@ -1,0 +1,17 @@
+{
+  "name": "jsonx-loader",
+  "version": "0.0.0",
+  "author": "barretem",
+  "description": "jsonx loader module for webpack",
+  "license": "MIT",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barretem/jsonx-loader.git"
+  }
+}
